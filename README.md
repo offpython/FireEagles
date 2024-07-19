@@ -16,6 +16,6 @@
 ### 역할
 
 |이름|역할|
-|---|
+|---|---|
 |이소희|`Main`, `Patient`, `Input`|
 |이신애|`Calculator`, `Output`, `Sort`|
